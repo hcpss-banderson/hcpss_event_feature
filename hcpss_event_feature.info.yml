@@ -1,0 +1,14 @@
+name: 'Event Feature'
+description: 'Events content type.'
+type: module
+core: 8.x
+dependencies:
+  - datetime_range
+  - field
+  - menu_ui
+  - node
+  - path
+  - text
+  - user
+version: 8.x-1.0
+package: HCPSS
